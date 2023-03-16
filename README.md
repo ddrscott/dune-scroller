@@ -24,4 +24,4 @@ As an exercise to do at home:
 ## Thanks
 
 - [ganesh-k13](https://github.com/ganesh-k13/shell/blob/master/test_search/www.glozman.com/TextPages/Frank%20Herbert%20-%20Dune.txt) for the Dune text
-- [Wikipedia](https://en.wikipedia.org/wiki/Dune_(novel)) for the book cover
+- [Wikipedia](https://en.wikipedia.org/wiki/Dune_(novel\)) for the book cover
