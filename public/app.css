@@ -1,0 +1,48 @@
+:root {
+    /* https://paletton.com/#uid=30A0u0k4ftn0mRD1TBP7no+bil4 */
+    --base-color: #EADBCB;
+    --text-color: #4F5573;
+    --highlight-color: #70927C;
+}
+
+* {
+
+    box-sizing: border-box;
+}
+
+* + * {
+    box-sizing: border-box;
+    margin: 16px auto;
+    padding: 0;
+}
+
+html {
+    padding: 0;
+    margin: 0;
+    height: 100%;
+    overflow-y: scroll;
+}
+
+body {
+    background-color: var(--base-color);
+    color: var(--text-color);
+    padding: 0 10%;
+    margin: 0;
+    font-family: serif;
+    font-size: 16px;
+    border-left: 10px solid var(--highlight-color);
+}
+
+h1 {
+    font-family: serif;
+    font-size: 10vw;
+    padding-top: 10%;
+    margin-top: 0;
+    text-shadow: 0px 0px 2px #888;
+}
+
+.content {
+    white-space: pre-line;
+    line-height: 2;
+    text-align: justify;
+}
