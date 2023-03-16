@@ -1,7 +1,6 @@
 # Dune Scroller
 
 ```
-Yep. We went there.
  _____________________
 < Yep. We went there. >
  ---------------------
