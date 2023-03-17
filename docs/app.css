@@ -2,7 +2,7 @@
     /* https://paletton.com/#uid=30A0u0k4ftn0mRD1TBP7no+bil4 */
     --base-color: #EADBCB;
     --text-color: #4F5573;
-    --highlight-color: #70927C;
+    --highlight-color: #2F3A29;
 }
 
 body {
@@ -20,7 +20,8 @@ h1 {
 }
 
 .content {
+    font-size: 1.75vw;
+    font-family: monospace;
     white-space: pre-line;
-    line-height: 2;
-    text-align: justify;
+    line-height: 1.75;
 }
