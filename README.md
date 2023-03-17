@@ -11,8 +11,13 @@
                 ||     ||
 ```
 
-Read Dune by Frank Herbert via scrolling the whole freaking thing.
+Read "The Dune Country" via scrolling the whole freaking thing.
 
+If you came here to read Dune by Frank Herbert, it's not public domain, yet. Sorry.
+
+This project is a demonstration of a simple website to by deployed using Github Pages.
+
+See [this article](https://ddrscott.github.io/blog/2023/how-to-make-a-website-via-github/) about how to use it.
 ## Future Features
 
 As an exercise to do at home:
@@ -23,5 +28,4 @@ As an exercise to do at home:
 
 ## Thanks
 
-- [ganesh-k13](https://github.com/ganesh-k13/shell/blob/master/test_search/www.glozman.com/TextPages/Frank%20Herbert%20-%20Dune.txt) for the Dune text
-- [Wikipedia](https://en.wikipedia.org/wiki/Dune_(novel\)) for the book cover
+- [Project Gutenberg](https://www.gutenberg.org/ebooks/58330) for providing the content.
