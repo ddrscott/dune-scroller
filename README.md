@@ -18,6 +18,20 @@ If you came here to read Dune by Frank Herbert, it's not public domain, yet. Sor
 This project is a demonstration of a simple website to by deployed using Github Pages.
 
 See [this article](https://ddrscott.github.io/blog/2023/how-to-make-a-website-via-github/) about how to use it.
+
+## Running Locally
+
+```sh
+# Using Node JS
+npm -i --global live-server
+
+live-server docs
+
+# OR Using Python
+
+python3 -m http.server -d docs
+```
+
 ## Future Features
 
 As an exercise to do at home:
